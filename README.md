@@ -7,7 +7,9 @@
 	## Summary
 	
 
-	This project's goal is to provide a tool, that would allow for easier and better assessment of the financial risk. AI-based tool to help people that are investing on a 	stock markets assess the risk is the main target of this project.
+	This project's goal is to provide a tool, that would allow for easier and better assessment of the financial 
+	risk. AI-based tool to help people that are investing on a stock markets assess the risk is the main target 
+	of this project.
 	
 
 	
