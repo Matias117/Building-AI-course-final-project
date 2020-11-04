@@ -18,7 +18,6 @@
 	When it comes to risk management, people (or in this case investors, to be more precise) often tend to (for example) overestimate possible events with very big impact on the price of asset, yet with very low probability of happening. At the same time they often underestimate possible events with small impact on the price of asset, yet with very high probability of happening and/or possible multiple occurance, effectively affecting an asset the same amout as the low probability event. That problem could be solved by an AI 'advisor' able to analyse the data and calculate the real risk and eventually advise whether or not sell/buy an asset. Also, with the AI solution we could resign from traditional methods of risk valuation and try to develop a new one, based on a real data (with possibility to use past data to train the model - we can take the data from past to train the model, where our expected result would be let's say today's price of an asset).
 	
 
-	
 
 	## How is it used?
 	
