@@ -7,7 +7,7 @@
 	## Summary
 	
 
-	Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+	This project's goal is to provide a tool, that would allow for easier and better assessment of the financial risk. When it comes to risk management, people (or in this 	case investors, to be more precise) often tend to (for example) overestimate possible events with very big impact on the price of asset, yet with very low probability of 	  happening. At the same time they often underestimate possible events with small impact on the price of asset, yet with very high probability of happening and/or possible 	    multiple occurance, effectively affecting an asset the same amout as the low probability event.
 	
 
 	
@@ -78,7 +78,7 @@
 	## What next?
 	
 
-	How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+	Data gathering, building a simple model for first tests and looking where it goes!
 	
 
 	
@@ -86,8 +86,5 @@
 	## Acknowledgments
 	
 
-	* list here the sources of inspiration 
-	* do not use code, images, data etc. from others without permission
-	* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-	  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-	* etc
+	*  The [Elements of AI](https://www.elementsofai.com/) Team for giving an inspiration to think about this project
+	*  The rest will come with the project's progress :)
